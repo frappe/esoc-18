@@ -2,7 +2,7 @@
 
 ERPNext summer of code is a 3 month long internship program where students work in teams on open source projects under ERPNext.
 
-This repository contains docs + issue tracker for `ESoC 18 `
+This repository contains `docs + issue tracker` for ESoC 18 
 
 ## Timeline
 
