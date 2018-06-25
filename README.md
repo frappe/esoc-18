@@ -25,12 +25,12 @@ This repository contains `docs + issue tracker` for ESoC 18
 
 | Projects | Students | Mentor(s) |
 | -------- | --------| -------- |
-|[Mobile Apps](https://)|[Dan](), [Ritik](https://), [Shivam](https://), [Akshay](https://)| |
-|[Desktop](https://)|[Japleen](https://), [Zameer](https://), [Neel](https://)| |
-|[Point of Sale](https://)|[Chirag](https://), [Jainam](https://), [Karan](https://)| |
-|[Accounting + Inventory + CRM](https://)|[Krisha](https://), [Sayantika](https://), [Jaffery](https://), [Pratul](https://)| |
-|[Web RTC + Data Sync](https://)|[Shaily](https://), [Parth](https://), [Anto](https://)| |
-|[Email](https://)|[Aakanksha](https://github.com/accakks), [Nishchith](https://github.com/inishchith), [Tarun](https://github.com/meets2tarun) | [Suraj](https://github.com/surajshetty3416) |
+|[Mobile Apps](https://github.com/frappe/esoc-18/Projects/MobileApps.md)|[Dan](), [Ritik](https://), [Shivam](https://), [Akshay](https://)| |
+|[Desktop](https://github.com/frappe/esoc-18/Projects/DESKTOP.md)|[Japleen](https://), [Zameer](https://), [Neel](https://)| |
+|[Point of Sale](https://github.com/frappe/esoc-18/Projects/POS.md)|[Chirag](https://), [Jainam](https://), [Karan](https://)| |
+|[Accounting + Inventory + CRM](https://github.com/frappe/esoc-18/Projects/ACCOUNTING.md)|[Krisha](https://), [Sayantika](https://), [Jaffery](https://), [Pratul](https://)| |
+|[Web RTC + Data Sync](https://github.com/frappe/esoc-18/Projects/WebRTC.md)|[Shaily](https://), [Parth](https://), [Anto](https://)| |
+|[Email](https://github.com/frappe/esoc-18/Projects/EMAIL.md)|[Aakanksha](https://github.com/accakks), [Nishchith](https://github.com/inishchith), [Tarun](https://github.com/meets2tarun) | [Suraj](https://github.com/surajshetty3416) |
 
 
 
